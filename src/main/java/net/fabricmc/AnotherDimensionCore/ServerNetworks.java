@@ -7,7 +7,9 @@ public class ServerNetworks {
 
     public static void init(){
 
-        /*pathのキーが押された時の処理（この場合はGキー) */
+        /*pathのキーが押された時の処理（この場合はGキー) 
+         * これは、押下時に"hure"のスコアをインクリメントする
+        */
         // ServerPlayNetworking.registerGlobalReceiver(AnotherDimensionCoreMod.id("press_g_key"), ((server,player,handler,buf,responseSender) -> {
         //     ScoreboardObjective scoreObject = player.getScoreboard().getObjective("hure");
 
