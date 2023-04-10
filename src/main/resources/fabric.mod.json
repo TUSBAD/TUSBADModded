@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "modid",
+  "version": "${version}",
+
+  "name": "AnotherDimensionCore Mod",
+  "description": "このMODは、TUSB Another Dimension で遊ぶのに必ず必要になるMODです。これ単体では動作しません。気を付けてください",
+  "authors": [
+    "ぽか,たま"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FreyCIelu/ADv12RModded"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.fabricmc.AnotherDimensionCore.AnotherDimensionCoreMod"
+    ]
+  },
+  "mixins": [
+    "modid.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.17",
+    "fabric-api": "*",
+    "minecraft": "~1.19.4",
+    "java": ">=17",
+    "fabric-key-binding-api-v1": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
