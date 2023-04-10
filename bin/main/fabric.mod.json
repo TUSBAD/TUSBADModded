@@ -4,13 +4,13 @@
   "version": "${version}",
 
   "name": "AnotherDimensionCore Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "このMODは、TUSB Another Dimension で遊ぶのに必ず必要になるMODです。これ単体では動作しません。気を付けてください",
   "authors": [
-    "Me!"
+    "ぽか,たま"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/FreyCIelu/ADv12RModded"
   },
 
   "license": "CC0-1.0",
