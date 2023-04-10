@@ -2,7 +2,7 @@
 ![Minecraft version](https://img.shields.io/badge/MCversion-1.19.4-green.svg?logo=minecraft)
 [![discord](https://img.shields.io/discord/715245045300723775?logo=discord&label=discord)](https://discord.gg/rTVWQm4ykR)
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/FreyCielu/ADv12RModded?include_prereleases)
-![GitHub](https://img.shields.io/github/license/FreyCieluADv12RModded)
+![GitHub](https://img.shields.io/github/license/FreyCielu/ADv12RModded)
 <br>
 [![activity](https://img.shields.io/github/commit-activity/m/FreyCielu/ADv12RModded?label=commit&logo=github&color=brightgreen)](https://github.com/FreyCielu/ADv12RModded/commits/1.19.x)
 ![GitHub issues](https://img.shields.io/github/issues/FreyCielu/ADv12RModded?logo=github)
