@@ -10,19 +10,8 @@ public class ClientNetworks{
 
     }
 
+    //Gキーが押されたことをclient側に送信
     // public static void sendPressGKey(){
     //     ClientPlayNetworking.send(AnotherDimensionCoreMod.id("press_g_key"),PacketByteBufs.empty());
-    // }
-
-    // public static void sendPressF_1Key(){
-    //     ClientPlayNetworking.send(AnotherDimensionCoreMod.id("press_f_1key"),PacketByteBufs.empty());
-    // }
-
-    // public static void sendPressF_2Key(){
-    //     ClientPlayNetworking.send(AnotherDimensionCoreMod.id("press_f_2key"),PacketByteBufs.empty());
-    // }
-
-    // public static void sendPressF_3Key(){
-    //     ClientPlayNetworking.send(AnotherDimensionCoreMod.id("press_f_3key"),PacketByteBufs.empty());
     // }
 }

@@ -14,18 +14,20 @@ import net.minecraft.client.option.KeyBinding;
 
 public class keyBindings {
 
-    // public static KeyBinding AD_KEY_BINDINGS_R = 
-    //     new KeyBinding("key.ad_R",InputUtil.Type.KEYSYM,GLFW.GLFW_KEY_R,"category.ad");
-
+    /*デフォルトがGキーのキーバインドを追加*/
     // public static KeyBinding AD_KEY_BINDINGS_G = 
     //     new KeyBinding("key.ad_G",InputUtil.Type.KEYSYM,GLFW.GLFW_KEY_G,"category.ad");
-
-    // public static KeyBinding AD_KEY_BINDINGS_F = 
-    //     new KeyBinding("key.ad_F",InputUtil.Type.KEYSYM,GLFW.GLFW_KEY_F,"category.ad");
 
 
 
     public static void init(){
 
+        /*KeyBindingHelperにGキーを登録*/
+        //KeyBindingHelper.registerKeyBinding(HURE_KEY_BINDINGS_G);
+
+        /*ここに、押したときの処理を書く 押された時に、client側に通知*/
+        // while(HURE_KEY_BINDINGS_G.wasPressed()){
+        //     ClientNetworks.sendPressGKey();
+        // }
         }
 }
