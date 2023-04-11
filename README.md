@@ -15,7 +15,7 @@
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCdKnAER_nZTSWAAhvYpgGrw?label=Subscribe%20%40%E3%83%95%E3%83%AC%E3%82%A4%E3%82%B7%E3%82%A7%E3%83%AB&style=social)
 
 # ADv12RModded
-TUSB二次創作「TUSBAD_v12R」Mod開発用リポジトリ
+TUSB二次創作「TUSBAD_v12R」Mod開発用リポジトリ<br>
 [データパックリポジトリはこちら](https://github.com/FreyCIelu/TUSBAD_v12.5)
 
 Discord:https://discord.gg/rTVWQm4ykR
