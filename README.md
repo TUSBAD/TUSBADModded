@@ -1,10 +1,10 @@
 ![TUSBAD version](https://img.shields.io/badge/ADversion-12R_1.0α-blueviolet.svg?)
-![Minecraft version](https://img.shields.io/badge/MCversion-1.19.4-green.svg?logo=minecraft)
+![Minecraft version](https://img.shields.io/badge/MCversion-1.20.x-green.svg?logo=minecraft)
 [![discord](https://img.shields.io/discord/715245045300723775?logo=discord&label=discord)](https://discord.gg/rTVWQm4ykR)
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/TUSBAD/TUSBADModded?include_prereleases)
 ![GitHub](https://img.shields.io/github/license/TUSBAD/TUSBADModded)
 <br>
-[![activity](https://img.shields.io/github/commit-activity/m/FreyCielu/ADv12RModded?label=commit&logo=github&color=brightgreen)](https://github.com/TUSBAD/TUSBADModded/commits/1.19.x)
+[![activity](https://img.shields.io/github/commit-activity/m/FreyCielu/ADv12RModded?label=commit&logo=github&color=brightgreen)](https://github.com/TUSBAD/TUSBADModded/commits/1.20.x)
 ![GitHub issues](https://img.shields.io/github/issues/TUSBAD/TUSBADModded?logo=github)
 ![GitHub pr](https://img.shields.io/github/issues-pr/TUSBAD/TUSBADModded?logo=github)
 ![GitHub all releases](https://img.shields.io/github/downloads/TUSBAD/TUSBADModded/total?logo=github)
@@ -16,6 +16,6 @@
 
 # ADv12RModded
 TUSB二次創作「TUSBAD_v12R」Mod開発用リポジトリ<br>
-[データパックリポジトリはこちら](https://github.com/FreyCIelu/TUSBAD_v12.5)
+[データパックリポジトリはこちら](https://github.com/TUSBAD/TUSBADv12R)
 
 Discord:https://discord.gg/rTVWQm4ykR
